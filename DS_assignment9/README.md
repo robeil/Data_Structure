@@ -18,3 +18,52 @@ Note: Similarly practice by yourself for all the operations of binary search tre
 a. Implement the code for void preOrder(){ }
 b. Implement the code for void postOrder(){ }
 c. Implement the code to count the leaf nodes int leafCount(){}
+
+
+/*todo ---> after removing 47 the successor will become 54
+todo --->  after removing 76 the succesor will be become 80
+
+        todo after removing 50 and 68
+                                        55
+                                        /\
+                                       /  \
+                                      45   58
+                                    /  \     \
+                                   /     \     \
+                                 43      47   76
+                                        /     / \
+                                       /     /   \
+                                     54    71     80
+                                        /          \
+                                       /            \
+                                     60             91
+
+         todo after removing 47 and 80 the tree will look the same but minus two leaf(external nodes)
+                                        55
+                                        /\
+                                       /  \
+                                      45   58
+                                    /  \     \
+                                   /     \     \
+                                 43      54   76
+                                             / \
+                                            /   \
+                                         71      91
+                                        /
+                                       /
+                                     60
+
+            todo The draw after removing 47 and 80
+                                        55
+                                        /\
+                                       /  \
+                                     54   58
+                                     /      \
+                                   /          \
+                                43            91
+                                             /
+                                            /
+                                         71
+                                        /
+                                       /
+                                      60
