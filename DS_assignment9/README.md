@@ -18,13 +18,10 @@ Note: Similarly practice by yourself for all the operations of binary search tre
 a. Implement the code for void preOrder(){ }
 b. Implement the code for void postOrder(){ }
 c. Implement the code to count the leaf nodes int leafCount(){}
+![](F997F296-8C53-4570-850B-D30530446544.png)
 
-
-/*todo ---> after removing 47 the successor will become 54
-todo --->  after removing 76 the successor will be become 80
-[![img.png](img.png)](#tree);
-
-
+/*todo ---> after removing 47 the successor will become 50
+todo --->  after removing 76 the succesor will be become 80
 
         todo after removing 50 and 68
                                         55
