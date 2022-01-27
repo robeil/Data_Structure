@@ -1,0 +1,13 @@
+- Queue
+- is a linear data structure and the component in queue stored in FIFO
+first in first out.
+there are two ends in the queue collection front and rear.
+- Queue is an interface so can't create an object out of it.
+* there are two different class which are used to implement
+the queue interface those are LinkedList and PriorityQueue.
+- there are two types of Queues- Bounded and unbounded queues.
+- Deque or double ended queue also part of it that has deletion and isnertion
+the deque also consider as thread safe.
+
+Circular Array
+

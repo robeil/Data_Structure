@@ -1,0 +1,19 @@
+Queue note
+
+- Queue is an interface and it is FIFO
+- Adding to the end and removing from the first
+Queue can be implemented in Array or linkedList interface
+- Queue time complexity is O(1)
+ boolean add(E item) - return true or fals if not throw exceptioon
+ boolean offer(E item) - return true or false
+ E remove() - return removed item if null throw excpetion
+ E poll() - remove the first item and null if it empty
+ E peek() - return the first with out removing if null return null
+ E element() - return the first if null throw exception
+
+ Queue using LinkedList
+ - it doesn't matter the capacity and size just add to the front
+ remove from the last;
+Circular Array
+
+-

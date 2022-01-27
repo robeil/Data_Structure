@@ -1,0 +1,16 @@
+What is HeapTree?
+- Heaptree is a complete tree
+- minHeap tree means the minimum has to be in the buttom
+- minHeap the child must be greater than the parent
+- maxHeap tree must to be greater than the child
+- is Binary tree that
+
+insertion method in heapTree is
+the child must be greater than the parent
+if the child is less than the parent then swap it
+
+the left index is 2K +1
+the right index is 2K + 2
+
+to get the parent index in heap
+index - 1 / 2

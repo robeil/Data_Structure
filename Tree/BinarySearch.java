@@ -3,6 +3,7 @@ package Data_Structure.Tree;
 import java.util.Scanner;
 
 public class BinarySearch {
+
     public static class Tree {
         //todo instance fields
         TreeNode root;
@@ -98,6 +99,7 @@ public class BinarySearch {
         }
 
           public static void main(String[] args) {
+
             Tree myTree = new Tree();
             int n , num;
             Scanner scanner = new Scanner(System.in);
