@@ -21,7 +21,10 @@ c. Implement the code to count the leaf nodes int leafCount(){}
 
 
 /*todo ---> after removing 47 the successor will become 54
-todo --->  after removing 76 the succesor will be become 80
+todo --->  after removing 76 the successor will be become 80
+[![img.png](img.png)](#tree);
+
+
 
         todo after removing 50 and 68
                                         55

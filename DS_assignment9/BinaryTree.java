@@ -208,8 +208,8 @@ public class BinaryTree<E extends Comparable<E>> {
         System.out.println("Is it deleted : " + myTree.delete(91));
         System.out.println("Total number of nodes : " + myTree.size());
 
-        /*todo ---> after removing 47 the successor will become 54
-         todo --->  after removing 76 the succesor will be become 80
+        /*todo ---> after removing 47 the successor will become 50
+         todo --->  after removing 76 the successor will be become 80
 
         todo after removing 50 and 68
                                         55
